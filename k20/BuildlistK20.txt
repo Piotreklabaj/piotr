@@ -1,6 +1,6 @@
-id="plugin.program.PIOTR WIZARD"
+id="plugin.program.pio20"
 version="1.0.0"
-zip=""
+zip="https://github.com/Piotreklabaj/piotr/raw/main/k20/plugin.program.pio20.zip"
 
 
 
