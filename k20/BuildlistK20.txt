@@ -9,7 +9,7 @@ zip=""
 
 name="PIOTR Nexus Build"
 version="1.0.0"
-url="http://www.wiz.upadleanioly.24tm.pl/wiz/u20%201.0.1.zip"
+url="https://megawrzuta.pl/files/4fd8fce5436c822d01c647eff8a197d2.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
