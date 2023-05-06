@@ -4,15 +4,19 @@ zip=""
 
 
 
-name="PIOTR WIZARD 20"
+
+
+
+name="PIOTR Nexus Build"
 version="1.0.0"
-url="http://tom122.webd.pro/19/20 1.0.0.zip"
-gui="url.to.guisettings"   -
+url="http://www.wiz.upadleanioly.24tm.pl/wiz/u20%201.0.1.zip"
+minor="http://"
+gui="http://"
 kodi="20.0"
-theme="url.to.themes"
+theme="http://"
 icon="https://raw.githubusercontent.com/Piotreklabaj/piotr/main/k20/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
-adult="no"
-info="url.to.info"
-description=" PIOTR WIZARD  Kodi 20. Opcja Fresh ."
+adult="yes"
+info="http://"
+description=" PIOTR Nexus Build for Kodi 20 Nexus . "
