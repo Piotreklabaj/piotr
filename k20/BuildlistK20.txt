@@ -9,7 +9,7 @@ zip="https://github.com/Piotreklabaj/piotr/raw/main/k20/plugin.program.pio20.zip
 
 name="PIOTR Nexus Build"
 version="1.0.0"
-url="https://megawrzuta.pl/files/4fd8fce5436c822d01c647eff8a197d2.zip"
+url="https://megawrzuta.pl/files/1fe1df417578bd89c0af2a9199634fae.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
@@ -24,7 +24,7 @@ description=" PIOTR Nexus Build for Kodi 20 Nexus . "
 
 name="PIOTR2 Nexus Build"
 version="1.0.0"
-url="https://megawrzuta.pl/files/3954670effea66bd9b47223d1f4c73fc.zip"
+url="https://megawrzuta.pl/files/aed793902e014bc29fd738790fc8e072.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
