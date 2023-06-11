@@ -24,7 +24,7 @@ description=" PIOTR Nexus Build for Kodi 20 Nexus . "
 
 name="PIOTR2 Nexus Build"
 version="1.0.0"
-url="https://megawrzuta.pl/files/aed793902e014bc29fd738790fc8e072.zip"
+url="https://megawrzuta.pl/files/09bc11a91a4bdfbd04baf167e5a5d427.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
