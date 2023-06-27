@@ -24,7 +24,7 @@ description=" DreamTv Nexus Build for Kodi 20 Nexus . "
 
 name="DreamTv ver.2 Nexus Build"
 version="1.0.0"
-url="https://megawrzuta.pl/files/f8597d0d47273573ce4da665088987cd.zip"
+url="https://megawrzuta.pl/files/27e0c8327e65fe746b91543b6f957588.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
