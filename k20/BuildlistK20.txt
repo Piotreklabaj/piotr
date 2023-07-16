@@ -7,7 +7,7 @@ zip="https://github.com/Piotreklabaj/piotr/raw/main/k20/plugin.program.pio20.zip
 
 name="DreamTv ver.2 Nexus Build"
 version="1.0.0"
-url="https://megawrzuta.pl/files/f0dba42db6477113b80903f320cc5fca.zip"
+url="https://megawrzuta.pl/files/951adb45eb884c2925f434e131c07333.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
