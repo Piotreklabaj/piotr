@@ -5,23 +5,6 @@ zip="https://github.com/Piotreklabaj/piotr/raw/main/k20/plugin.program.pio20.zip
 
 
 
-
-
-name="DreamTv Nexus Build"
-version="1.0.0"
-url="https://megawrzuta.pl/files/1fe1df417578bd89c0af2a9199634fae.zip"
-minor="http://"
-gui="http://"
-kodi="20.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/Piotreklabaj/piotr/main/k20/icon.png"
-fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
-preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
-adult="yes"
-info="http://"
-description=" DreamTv Nexus Build for Kodi 20 Nexus . "
-
-
 name="DreamTv ver.2 Nexus Build"
 version="1.0.0"
 url="https://megawrzuta.pl/files/951adb45eb884c2925f434e131c07333.zip"
