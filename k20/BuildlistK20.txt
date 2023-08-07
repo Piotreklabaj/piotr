@@ -7,7 +7,7 @@ zip="https://github.com/Piotreklabaj/piotr/raw/main/k20/plugin.program.pio20.zip
 
 name="DreamTv ver.2 Nexus Build"
 version="1.0.0"
-url="http://test.supermuza.com/kodi1/k20pio.zip"
+url="https://megawrzuta.pl/files/41d60f995569e322dba076dfe6465b6d.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
@@ -19,3 +19,4 @@ adult="yes"
 info="http://"
 description=" DreamTv ver.2 Nexus Build for Kodi 20 Nexus . "
 
+url="http://test.supermuza.com/kodi1/k20pio.zip"
