@@ -19,4 +19,4 @@ adult="yes"
 info="http://"
 description=" DreamTv ver.2 Nexus Build for Kodi 20 Nexus . "
 
-url="http://test.supermuza.com/kodi1/k20pio.zip"
+#url="http://test.supermuza.com/kodi1/k20pio.zip"
