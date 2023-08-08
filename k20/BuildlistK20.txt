@@ -32,7 +32,7 @@ fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="yes"
 info="http://"
-description=" DreamTvs  Kodi 20  "
+description=" DreamTvs .  "
 
 
 
