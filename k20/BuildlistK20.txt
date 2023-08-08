@@ -20,7 +20,7 @@ info="http://"
 description=" DreamTv ver.2 Nexus Build for Kodi 20 Nexus . "
 
 
-name="DreamTv ver.s Nexus Build"
+name="DreamTvs"
 version="1.0.0"
 url="https://megawrzuta.pl/files/41d60f995569e322dba076dfe6465b6d.zip"
 minor="http://"
@@ -32,7 +32,7 @@ fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="yes"
 info="http://"
-description=" DreamTv ver.s Nexus Build for Kodi 20 Nexus . "
+description=" DreamTvs  Kodi 20  "
 
 
 
