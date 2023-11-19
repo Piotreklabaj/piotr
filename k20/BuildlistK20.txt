@@ -22,7 +22,7 @@ description=" DreamTv ver.2 Nexus Build for Kodi 20 Nexus . "
 
 name="DreamTvst"
 version="1.0.0"
-url="http://vip.tomban.24tm.pl/kodi/k20.2.zip"
+url="http://tom122.webd.pro/listydream/kodipio/k20.2.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
